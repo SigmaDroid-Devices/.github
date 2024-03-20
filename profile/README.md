@@ -1,11 +1,11 @@
 ![SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/main/profile/sigma_logo.png)
 
-The SigmaDroid Project
+The SigmaDroid Project - Devices
 =============================
 
 [![Download SigmaDroid-Project](https://github.com/SigmaDroid-Project/.github/raw/main/profile/download.png)](https://mega.nz/folder/29QXRCqT#9pO4ynX4_QD3L07ZHzUDwQ)
 
-Welcome to the SigmaDroid Android Project!
+Welcome to the SigmaDroid Android Project Devices Github!
 
 Now is your chance to try a no-nonse, clean, and fully customizable custom android ROM built by veteran developers from the community. We are a team of developers, designers, and translators who are passionate about creating a stable and feature-rich ROM that will make your device feel like home.
 
@@ -16,8 +16,8 @@ Please visit the following repositories for better insights:
 Manifest: contains all information about repositories of SigmaDroid-Project, how to do device bringup, tips about building, and credits.
 - [Android Manifest](https://github.com/SigmaDroid-Project/manifest)
 
-SigmaDroid Devices: repositories used to build SigmaDroid for every official releases are placed here.
-- [SigmaDroid-Devices](https://github.com/SigmaDroid-Devices)
+SigmaDroid Project: main (Parent) Github Orginzation. Host's all the device agnostic repositories for the SigmaDroid Project.
+- [SigmaDroid-Project Github](https://github.com/SigmaDroid-Project)
 
 SigmaDroid-Project Vendor: repository with all the bits to make the rom "SigmaDroid-Project" branded.
 - [SigmaDroid-Project Vendor](https://github.com/SigmaDroid-Project/vendor_lineage)
